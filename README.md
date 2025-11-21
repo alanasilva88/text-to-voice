@@ -15,7 +15,7 @@ O objetivo é demonstrar o uso de tecnologias web para criar aplicações acess�
 
 ## 📷 Demonstração  
 
-<img width="600px" src=""/>
+<img width="600px" src="/assets/voicetext.png"/>
 
 ## 🌐 Deploy  
-🔗 [Acesse o projeto online]()
+🔗 [Acesse o projeto online](https://alanasilva88.github.io/text-to-voice/)
